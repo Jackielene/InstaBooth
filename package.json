@@ -3,14 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/photobooth",
+  "homepage": "https://Jackielene.github.io/photobooth",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --repo https://github.com/YOUR_GITHUB_USERNAME/photobooth.git"
+    "deploy": "gh-pages -d dist --repo https://github.com/Jackielene/photobooth.git"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.12",
